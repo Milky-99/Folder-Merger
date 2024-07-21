@@ -35,7 +35,12 @@ Premium Folder Merger is a Python-based GUI application that allows users to mer
     pip install -r requirements.txt
     ```
 
-## Usage
-Run the application:
-```bash
-python src/folder_merger.py
+Refer to usage guide for detailed instructions on how to use the application.
+
+Contributing
+Contributions are welcome! Please read the contributing guidelines before submitting a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
