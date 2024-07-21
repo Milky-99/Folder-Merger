@@ -40,6 +40,16 @@ Refer to usage guide for detailed instructions on how to use the application.
 Contributing
 Contributions are welcome! Please read the contributing guidelines before submitting a pull request.
 
+## Support Me
+
+If you find this application useful, consider supporting me:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/milky99)
+
+I'm a refugee in the United States and in desperate need of money so every $ will help
+
+Your support means everything to me!
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
