@@ -9,7 +9,7 @@ Premium Folder Merger is a Python-based GUI application that allows users to mer
 - **Delete Empty Source Folders**: Optionally delete source folders if they are empty after merging.
 - **Preserve Folder Structure**: Keep the original folder structure intact in the target folder.
 - **Create Log File**: Generate a log file to track the merge process.
-
+- **Drag and Drop Folders**: Drag and drop folders to the source or the output field.
 ## Installation
 
 ### Prerequisites
