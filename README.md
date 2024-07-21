@@ -3,6 +3,9 @@
 ## Overview
 Premium Folder Merger is a Python-based GUI application that allows users to merge multiple folders into a single target folder. It provides various options such as renaming files on conflict, deleting empty source folders, preserving folder structure, and creating log files.
 
+![Screenshot1](m1.png)
+
+
 ## Features
 - **Add and Remove Folders**: Easily add or remove source folders for merging.
 - **Rename Files on Conflict**: Automatically rename files if a conflict occurs in the target folder.
